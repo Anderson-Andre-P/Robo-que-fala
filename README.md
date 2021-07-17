@@ -9,7 +9,7 @@
 <p align="center">
   Essa aplicação contém um campo de input onde podemos escrever algum texto e clicar em 'Falar', e ao clicarmos a aplicação lê com a 'voz do navegador' o que         digitamos.
   
-  Você pode testar a aplicação <a href="https://anderson-andre-p.github.io/Robo-que-fala/">clicando aqui.</a>
+  Você pode testar a aplicação <a href="https://anderson-andre-p.github.io/Robo-que-fala/" target="_blank">clicando aqui.</a>
 </p>
 
 <h2 align="center">
